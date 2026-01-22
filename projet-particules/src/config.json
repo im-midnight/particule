@@ -1,0 +1,19 @@
+{
+	"WindowTitle": "Project particles",
+	"WindowSizeX": 1000,
+    "WindowSizeY": 700,
+	"ParticleImage": "assets/particle.png",
+	"Debug": true,
+	"InitNumParticles": 4,
+	"RandomSpawn": true,
+	"SpawnX": 400,
+	"SpawnY": 400,	
+	"SpawnRate":1,
+	"Afficher_particules" : true,
+	"Gravity" : false,
+	"Gravity_value" : 0.2,
+	"Spawn_mouse" : false,
+	"Collison" : false,
+	"IsCircle" : false,
+	"Radius_circle" : 200
+}
